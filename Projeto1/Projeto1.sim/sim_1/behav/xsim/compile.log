@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/melsi/Sistemas Digitais/Projeto1/Projeto1.srcs/sources_1/new/inverter_sc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'inverter_sc'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/melsi/Sistemas Digitais/Projeto1/Projeto1.srcs/sim_1/new/inverter_sc_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'inverter_sc_tb'
